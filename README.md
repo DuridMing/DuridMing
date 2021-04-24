@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DuridMing ,come from Taiwan!!
 - 👀 I’m College Student , I major in computer science.
-- 🌱 I’m currently learning about AI and project mangement.
+- 🌱 I’m currently learning about AI and Web Develope.
 
 contact me :
  - Twitter : @MingChe_Lu
